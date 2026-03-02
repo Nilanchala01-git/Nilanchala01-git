@@ -75,7 +75,7 @@ Medical AI • Multimodal Learning • AI • Transformer Architectures • Cybe
 Email: nilanchalamahanty131@gmail.com 
 LinkedIn: www.linkedin.com/in/nilanchala-mahanty-4792ba2b4/
 Kaggle: www.kaggle.com/nilanchalamahanty
-
+ORCID: [0009-0009-0484-0289]
 ---
 
 ⭐ *"Advancing healthcare intelligence through biomedical signal modeling."*
