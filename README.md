@@ -12,7 +12,7 @@ AI Researcher | Medical Deep Learning | Biomedical Signal Processing
 ---
 
 ## 🎓 Education
-**B.Tech in Computer Science Engineering**  
+**B.Tech in Computer Science Engineering & Application**  
 Graduation Year: 2027  
 
 ---
