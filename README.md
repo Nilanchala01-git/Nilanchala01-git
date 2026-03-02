@@ -1,4 +1,4 @@
-<h1 align="center">Nilanchala Mahanty</h1>
+<h1 align="center">Hi 👋, I'm Nilanchala Mahanty</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=AI+Researcher;Medical+Signal+Processing;Hybrid+CNN+%2B+Transformer+Architectures;ECG+Classification+%7C+PTB-XL" />
