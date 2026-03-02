@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Computer Science Engineering Student (2027) <br>
+Computer Science Engineering & Application Student (2027) <br>
 AI Researcher | Medical Deep Learning | Biomedical Signal Processing
 </p>
 
