@@ -39,9 +39,6 @@ Graduation Year: 2027
 - Frequency-domain spectral features
 - Feature concatenation + Random Forest classifier
 
-### ⚡ MTPA Framework
-- Multimodal time-frequency pseudo anomalies
-- Atrial Fibrillation detection
 
 ---
 
