@@ -341,16 +341,15 @@ Key areas of exposure included:
 # 🧩 What I'm Currently Working On
 
 ```text
-🔬 Medical AI Research
-        ↓
-🫀 ECG Signal Classification
-        ↓
-🧠 CNN + Transformer Architectures
-        ↓
-📊 Feature Engineering & Fusion
-        ↓
-🤖 Intelligent AI Systems
-        ↓
-🌐 Full-Stack AI Applications
-        ↓
-💻 DSA & Software Engineering
+### 🚀 RecruitAI — AI-Powered Recruitment Platform
+
+Currently developing **RecruitAI**, an intelligent recruitment and placement platform focused on:
+
+- 📄 AI-powered resume screening
+- 🤖 Candidate evaluation and intelligent matching
+- 📊 Skill-gap analysis and candidate scoring
+- 🎯 Automated candidate shortlisting
+- 🌐 Full-stack application development
+- 📈 Recruitment analytics and placement management
+
+Alongside RecruitAI, I continue to explore **Medical AI, ECG Signal Processing, Deep Learning, Java, DSA, and Software Engineering**.
