@@ -42,7 +42,6 @@ My work spans across:
 - 🌐 Full-Stack Web Development
 - 🔬 AI Research & Experimental Model Development
 
-I enjoy transforming research ideas into practical systems and continuously improving my problem-solving, software engineering and research skills.
 
 ---
 
@@ -114,7 +113,6 @@ Currently exploring deep learning architectures for **multi-label ECG signal cla
 
 ## 📊 Handcrafted + Deep Feature Fusion
 
-Another area of my research focuses on combining traditional signal-processing features with deep learning representations.
 
 ### Feature Engineering
 
@@ -223,7 +221,6 @@ Currently progressing in **Full-Stack Web Development**, with an interest in bui
 - AI/ML Integration
 - Deployment
 
-My goal is to combine **AI + Full-Stack Development** to build practical end-to-end applications.
 
 ---
 
@@ -337,19 +334,3 @@ Key areas of exposure included:
 </p>
 
 ---
-
-# 🧩 What I'm Currently Working On
-
-```text
-### 🚀 RecruitAI — AI-Powered Recruitment Platform
-
-Currently developing **RecruitAI**, an intelligent recruitment and placement platform focused on:
-
-- 📄 AI-powered resume screening
-- 🤖 Candidate evaluation and intelligent matching
-- 📊 Skill-gap analysis and candidate scoring
-- 🎯 Automated candidate shortlisting
-- 🌐 Full-stack application development
-- 📈 Recruitment analytics and placement management
-
-Alongside RecruitAI, I continue to explore **Medical AI, ECG Signal Processing, Deep Learning, Java, DSA, and Software Engineering**.
